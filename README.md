@@ -36,7 +36,7 @@ The dataset is available in the `data` folder.
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="800"/>
+  <img src="https://github.com/Bastina24/amazon-sales-dashboard/blob/main/amazon_sales_dashboard_image.png" width="800"/>
 </p>
 
 ---
